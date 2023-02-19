@@ -1,5 +1,9 @@
 # Drupal Auth Client
 
+## Prerequisites
+
+Make sure your Drupal site is using the [simple_oauth](https://www.drupal.org/project/simple_oauth) Drupal module.
+
 ## Usage
 
 ### import library
