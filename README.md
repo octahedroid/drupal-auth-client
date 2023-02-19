@@ -38,3 +38,7 @@ const client = drupalAuthClient(
   },
 )
 ```
+
+## Supporting organizations
+
+Development sponsored by [Octahedroid](https://octahedroid.com/)
